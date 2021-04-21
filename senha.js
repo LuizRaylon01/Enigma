@@ -1,0 +1,1 @@
+const finalSenha = "lazyclass"
